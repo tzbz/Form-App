@@ -1,0 +1,8 @@
+{"_id":{"$oid":"5d78db60bafbd0a96ac41f65"},"firstname":"Gareth","lastname":"Bale","email":"bale@hotmail.com","age":30,"status":"pending"}
+{"_id":{"$oid":"5d78db60bafbd0a96ac41f66"},"firstname":"Neymar","lastname":"JR","email":"sara@gmail.com","age":27,"status":"active"}
+{"_id":{"$oid":"5d78db60bafbd0a96ac41f67"},"firstname":"Cristiano","lastname":"Ronaldo","email":"cristiano_7@gmail.com","age":34.0,"status":"active"}
+{"_id":{"$oid":"5d78db60bafbd0a96ac41f68"},"firstname":"Lionel","lastname":"Messi","email":"lionel_M@gmail.com","age":32.0,"status":"active"}
+{"_id":{"$oid":"5d78db60bafbd0a96ac41f69"},"firstname":"Devid","lastname":"Beckham","email":"beck@gmail.com","age":44.0,"status":"pending"}
+{"_id":{"$oid":"5d78db60bafbd0a96ac41f6a"},"firstname":"Kylian","lastname":"Mbappe","email":"m_bappe@gmail.com","age":20.0,"status":"active"}
+{"_id":{"$oid":"5d78db60bafbd0a96ac41f6b"},"firstname":"Jose","lastname":"Mourinho","email":"mourinho@gmail.com","age":56.0,"status":"pending"}
+{"_id":{"$oid":"5d78db60bafbd0a96ac41f6c"},"firstname":"Zinedine","lastname":"Zidane","email":"zinedine_ZD@gmail.com","age":47.0,"status":"pending"}
